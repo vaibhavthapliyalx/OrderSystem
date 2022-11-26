@@ -1,0 +1,217 @@
+[2022-11-26 22:04:25Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2022-11-26 22:04:25Z INFO HostContext] Well known directory 'Bin': '/Users/vaibhavthapliyal/Desktop/Project/order_sys/actions-runner/bin'
+[2022-11-26 22:04:25Z INFO HostContext] Well known directory 'Root': '/Users/vaibhavthapliyal/Desktop/Project/order_sys/actions-runner'
+[2022-11-26 22:04:25Z INFO HostContext] Well known config file 'Credentials': '/Users/vaibhavthapliyal/Desktop/Project/order_sys/actions-runner/.credentials'
+[2022-11-26 22:04:25Z INFO HostContext] Well known directory 'Bin': '/Users/vaibhavthapliyal/Desktop/Project/order_sys/actions-runner/bin'
+[2022-11-26 22:04:25Z INFO HostContext] Well known directory 'Root': '/Users/vaibhavthapliyal/Desktop/Project/order_sys/actions-runner'
+[2022-11-26 22:04:25Z INFO HostContext] Well known config file 'Runner': '/Users/vaibhavthapliyal/Desktop/Project/order_sys/actions-runner/.runner'
+[2022-11-26 22:04:25Z INFO Listener] Runner is built for OSX (X64) - osx-x64.
+[2022-11-26 22:04:25Z INFO Listener] RuntimeInformation: Darwin 22.1.0 Darwin Kernel Version 22.1.0: Sun Oct  9 20:15:09 PDT 2022; root:xnu-8792.41.9~2/RELEASE_ARM64_T6000.
+[2022-11-26 22:04:25Z INFO Listener] Version: 2.299.1
+[2022-11-26 22:04:25Z INFO Listener] Commit: 2e44f985bd9bf890dc061e654f6a850c6f1249cf
+[2022-11-26 22:04:25Z INFO Listener] Culture: en-GB
+[2022-11-26 22:04:25Z INFO Listener] UI Culture: en-GB
+[2022-11-26 22:04:25Z INFO HostContext] Well known directory 'Bin': '/Users/vaibhavthapliyal/Desktop/Project/order_sys/actions-runner/bin'
+[2022-11-26 22:04:25Z INFO HostContext] Well known directory 'Root': '/Users/vaibhavthapliyal/Desktop/Project/order_sys/actions-runner'
+[2022-11-26 22:04:25Z INFO Listener] Validating directory permissions for: '/Users/vaibhavthapliyal/Desktop/Project/order_sys/actions-runner'
+[2022-11-26 22:04:25Z INFO CommandLineParser] Parse
+[2022-11-26 22:04:25Z INFO CommandLineParser] Parsing 5 args
+[2022-11-26 22:04:25Z INFO CommandLineParser] parsing argument
+[2022-11-26 22:04:25Z INFO CommandLineParser] HasArgs: False
+[2022-11-26 22:04:25Z INFO CommandLineParser] Adding Command: configure
+[2022-11-26 22:04:25Z INFO CommandLineParser] parsing argument
+[2022-11-26 22:04:25Z INFO CommandLineParser] HasArgs: True
+[2022-11-26 22:04:25Z INFO CommandLineParser] arg: url
+[2022-11-26 22:04:25Z INFO CommandLineParser] parsing argument
+[2022-11-26 22:04:25Z INFO CommandLineParser] HasArgs: True
+[2022-11-26 22:04:25Z INFO CommandLineParser] Adding option 'url': 'https://github.com/vaibhavthapliyalx/OrderSystem'
+[2022-11-26 22:04:25Z INFO CommandLineParser] parsing argument
+[2022-11-26 22:04:25Z INFO CommandLineParser] HasArgs: True
+[2022-11-26 22:04:25Z INFO CommandLineParser] arg: token
+[2022-11-26 22:04:25Z INFO CommandLineParser] parsing argument
+[2022-11-26 22:04:25Z INFO CommandLineParser] HasArgs: True
+[2022-11-26 22:04:25Z INFO CommandLineParser] Adding option 'token': '***'
+[2022-11-26 22:04:25Z INFO Listener] Arguments parsed
+[2022-11-26 22:04:26Z INFO Runner] ExecuteCommand
+[2022-11-26 22:04:26Z INFO ConfigurationStore] currentAssemblyLocation: /Users/vaibhavthapliyal/Desktop/Project/order_sys/actions-runner/bin/Runner.Listener.dll
+[2022-11-26 22:04:26Z INFO HostContext] Well known directory 'Bin': '/Users/vaibhavthapliyal/Desktop/Project/order_sys/actions-runner/bin'
+[2022-11-26 22:04:26Z INFO ConfigurationStore] binPath: /Users/vaibhavthapliyal/Desktop/Project/order_sys/actions-runner/bin
+[2022-11-26 22:04:26Z INFO HostContext] Well known directory 'Bin': '/Users/vaibhavthapliyal/Desktop/Project/order_sys/actions-runner/bin'
+[2022-11-26 22:04:26Z INFO HostContext] Well known directory 'Root': '/Users/vaibhavthapliyal/Desktop/Project/order_sys/actions-runner'
+[2022-11-26 22:04:26Z INFO ConfigurationStore] RootFolder: /Users/vaibhavthapliyal/Desktop/Project/order_sys/actions-runner
+[2022-11-26 22:04:26Z INFO HostContext] Well known directory 'Bin': '/Users/vaibhavthapliyal/Desktop/Project/order_sys/actions-runner/bin'
+[2022-11-26 22:04:26Z INFO HostContext] Well known directory 'Root': '/Users/vaibhavthapliyal/Desktop/Project/order_sys/actions-runner'
+[2022-11-26 22:04:26Z INFO HostContext] Well known config file 'Runner': '/Users/vaibhavthapliyal/Desktop/Project/order_sys/actions-runner/.runner'
+[2022-11-26 22:04:26Z INFO ConfigurationStore] ConfigFilePath: /Users/vaibhavthapliyal/Desktop/Project/order_sys/actions-runner/.runner
+[2022-11-26 22:04:26Z INFO HostContext] Well known directory 'Bin': '/Users/vaibhavthapliyal/Desktop/Project/order_sys/actions-runner/bin'
+[2022-11-26 22:04:26Z INFO HostContext] Well known directory 'Root': '/Users/vaibhavthapliyal/Desktop/Project/order_sys/actions-runner'
+[2022-11-26 22:04:26Z INFO HostContext] Well known config file 'Credentials': '/Users/vaibhavthapliyal/Desktop/Project/order_sys/actions-runner/.credentials'
+[2022-11-26 22:04:26Z INFO ConfigurationStore] CredFilePath: /Users/vaibhavthapliyal/Desktop/Project/order_sys/actions-runner/.credentials
+[2022-11-26 22:04:26Z INFO HostContext] Well known directory 'Bin': '/Users/vaibhavthapliyal/Desktop/Project/order_sys/actions-runner/bin'
+[2022-11-26 22:04:26Z INFO HostContext] Well known directory 'Root': '/Users/vaibhavthapliyal/Desktop/Project/order_sys/actions-runner'
+[2022-11-26 22:04:26Z INFO HostContext] Well known config file 'MigratedCredentials': '/Users/vaibhavthapliyal/Desktop/Project/order_sys/actions-runner/.credentials_migrated'
+[2022-11-26 22:04:26Z INFO ConfigurationStore] MigratedCredFilePath: /Users/vaibhavthapliyal/Desktop/Project/order_sys/actions-runner/.credentials_migrated
+[2022-11-26 22:04:26Z INFO HostContext] Well known directory 'Bin': '/Users/vaibhavthapliyal/Desktop/Project/order_sys/actions-runner/bin'
+[2022-11-26 22:04:26Z INFO HostContext] Well known directory 'Root': '/Users/vaibhavthapliyal/Desktop/Project/order_sys/actions-runner'
+[2022-11-26 22:04:26Z INFO HostContext] Well known config file 'Service': '/Users/vaibhavthapliyal/Desktop/Project/order_sys/actions-runner/.service'
+[2022-11-26 22:04:26Z INFO ConfigurationStore] ServiceConfigFilePath: /Users/vaibhavthapliyal/Desktop/Project/order_sys/actions-runner/.service
+[2022-11-26 22:04:26Z INFO CommandSettings] Flag 'help': 'False'
+[2022-11-26 22:04:26Z INFO CommandSettings] Flag 'version': 'False'
+[2022-11-26 22:04:26Z INFO CommandSettings] Flag 'commit': 'False'
+[2022-11-26 22:04:26Z INFO CommandSettings] Flag 'check': 'False'
+[2022-11-26 22:04:26Z INFO CommandSettings] Command 'configure': 'True'
+[2022-11-26 22:04:26Z INFO Terminal] WRITE LINE: 
+[2022-11-26 22:04:26Z INFO Terminal] WRITE LINE: --------------------------------------------------------------------------------
+[2022-11-26 22:04:26Z INFO Terminal] WRITE LINE: |        ____ _ _   _   _       _          _        _   _                      |
+[2022-11-26 22:04:26Z INFO Terminal] WRITE LINE: |       / ___(_) |_| | | |_   _| |__      / \   ___| |_(_) ___  _ __  ___      |
+[2022-11-26 22:04:26Z INFO Terminal] WRITE LINE: |      | |  _| | __| |_| | | | | '_ \    / _ \ / __| __| |/ _ \| '_ \/ __|     |
+[2022-11-26 22:04:26Z INFO Terminal] WRITE LINE: |      | |_| | | |_|  _  | |_| | |_) |  / ___ \ (__| |_| | (_) | | | \__ \     |
+[2022-11-26 22:04:26Z INFO Terminal] WRITE LINE: |       \____|_|\__|_| |_|\__,_|_.__/  /_/   \_\___|\__|_|\___/|_| |_|___/     |
+[2022-11-26 22:04:26Z INFO Terminal] WRITE LINE: |                                                                              |
+[2022-11-26 22:04:26Z INFO Terminal] WRITE: |                       
+[2022-11-26 22:04:26Z INFO Terminal] WRITE: Self-hosted runner registration
+[2022-11-26 22:04:26Z INFO Terminal] WRITE LINE:                         |
+[2022-11-26 22:04:26Z INFO Terminal] WRITE LINE: |                                                                              |
+[2022-11-26 22:04:26Z INFO Terminal] WRITE LINE: --------------------------------------------------------------------------------
+[2022-11-26 22:04:26Z INFO ConfigurationManager] ConfigureAsync
+[2022-11-26 22:04:26Z INFO CommandSettings] Flag 'generateServiceConfig': 'False'
+[2022-11-26 22:04:26Z INFO ConfigurationStore] IsConfigured()
+[2022-11-26 22:04:26Z INFO ConfigurationStore] IsConfigured: False
+[2022-11-26 22:04:26Z INFO ConfigurationManager] Is configured: False
+[2022-11-26 22:04:26Z INFO CommandSettings] Arg 'url': 'https://github.com/vaibhavthapliyalx/OrderSystem'
+[2022-11-26 22:04:26Z INFO CommandSettings] Remove url from Arg dictionary.
+[2022-11-26 22:04:26Z INFO CommandSettings] Arg 'token': '***'
+[2022-11-26 22:04:26Z INFO CommandSettings] Remove token from Arg dictionary.
+[2022-11-26 22:04:28Z INFO ConfigurationManager] Http response code: OK from 'POST https://api.github.com/actions/runner-registration'
+[2022-11-26 22:04:28Z INFO ConfigurationManager] cred retrieved via GitHub auth
+[2022-11-26 22:04:28Z INFO RunnerServer] EstablishVssConnection
+[2022-11-26 22:04:28Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2022-11-26 22:04:29Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2022-11-26 22:04:29Z INFO RunnerServer] EstablishVssConnection
+[2022-11-26 22:04:29Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2022-11-26 22:04:29Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2022-11-26 22:04:29Z INFO RunnerServer] EstablishVssConnection
+[2022-11-26 22:04:29Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2022-11-26 22:04:29Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2022-11-26 22:04:30Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2022-11-26 22:04:30Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2022-11-26 22:04:30Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2022-11-26 22:04:31Z INFO Terminal] WRITE LINE: 
+[2022-11-26 22:04:31Z INFO ConfigurationManager] Test Connection complete.
+[2022-11-26 22:04:31Z INFO HostContext] Well known directory 'Bin': '/Users/vaibhavthapliyal/Desktop/Project/order_sys/actions-runner/bin'
+[2022-11-26 22:04:31Z INFO HostContext] Well known directory 'Root': '/Users/vaibhavthapliyal/Desktop/Project/order_sys/actions-runner'
+[2022-11-26 22:04:31Z INFO HostContext] Well known config file 'RSACredentials': '/Users/vaibhavthapliyal/Desktop/Project/order_sys/actions-runner/.credentials_rsaparams'
+[2022-11-26 22:04:31Z INFO RSAFileKeyManager] Creating new RSA key using 2048-bit key length
+[2022-11-26 22:04:31Z INFO RSAFileKeyManager] Successfully saved RSA key parameters to file /Users/vaibhavthapliyal/Desktop/Project/order_sys/actions-runner/.credentials_rsaparams
+[2022-11-26 22:04:31Z INFO RSAFileKeyManager] Which: 'chmod'
+[2022-11-26 22:04:31Z INFO RSAFileKeyManager] Location: '/bin/chmod'
+[2022-11-26 22:04:31Z INFO HostContext] Well known directory 'Bin': '/Users/vaibhavthapliyal/Desktop/Project/order_sys/actions-runner/bin'
+[2022-11-26 22:04:31Z INFO HostContext] Well known directory 'Root': '/Users/vaibhavthapliyal/Desktop/Project/order_sys/actions-runner'
+[2022-11-26 22:04:31Z INFO ProcessInvokerWrapper] Starting process:
+[2022-11-26 22:04:31Z INFO ProcessInvokerWrapper]   File name: '/bin/chmod'
+[2022-11-26 22:04:31Z INFO ProcessInvokerWrapper]   Arguments: '600 /Users/vaibhavthapliyal/Desktop/Project/order_sys/actions-runner/.credentials_rsaparams'
+[2022-11-26 22:04:31Z INFO ProcessInvokerWrapper]   Working directory: '/Users/vaibhavthapliyal/Desktop/Project/order_sys/actions-runner'
+[2022-11-26 22:04:31Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2022-11-26 22:04:31Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2022-11-26 22:04:31Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'False'
+[2022-11-26 22:04:31Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2022-11-26 22:04:31Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2022-11-26 22:04:31Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2022-11-26 22:04:31Z INFO ProcessInvokerWrapper]   High priority process: 'False'
+[2022-11-26 22:04:32Z INFO ProcessInvokerWrapper] Process started with process id 19948, waiting for process exit.
+[2022-11-26 22:04:32Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2022-11-26 22:04:32Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2022-11-26 22:04:32Z INFO ProcessInvokerWrapper] Finished process 19948 with exit code 0, and elapsed time 00:00:00.0848737.
+[2022-11-26 22:04:32Z INFO RSAFileKeyManager] Successfully set permissions for RSA key parameters file /Users/vaibhavthapliyal/Desktop/Project/order_sys/actions-runner/.credentials_rsaparams
+[2022-11-26 22:04:32Z INFO CommandSettings] Arg 'runnergroup': ''
+[2022-11-26 22:04:32Z INFO CommandSettings] Flag 'unattended': 'False'
+[2022-11-26 22:04:32Z INFO PromptManager] ReadValue
+[2022-11-26 22:04:32Z INFO Terminal] WRITE: Enter the name of the runner group to add this runner to: 
+[2022-11-26 22:04:32Z INFO Terminal] WRITE: [press Enter for Default] 
+[2022-11-26 22:04:32Z INFO Terminal] READ LINE
+[2022-11-26 22:04:40Z INFO Terminal] Read value: ''
+[2022-11-26 22:04:40Z INFO PromptManager] Falling back to the default: 'Default'
+[2022-11-26 22:04:40Z INFO Terminal] WRITE LINE: 
+[2022-11-26 22:04:40Z INFO ConfigurationManager] Found a self-hosted runner group with id 1 and name Default
+[2022-11-26 22:04:40Z INFO CommandSettings] Flag 'disableupdate': 'False'
+[2022-11-26 22:04:40Z INFO CommandSettings] Flag 'ephemeral': 'False'
+[2022-11-26 22:04:40Z INFO CommandSettings] Arg 'name': ''
+[2022-11-26 22:04:40Z INFO CommandSettings] Flag 'unattended': 'False'
+[2022-11-26 22:04:40Z INFO PromptManager] ReadValue
+[2022-11-26 22:04:40Z INFO Terminal] WRITE: Enter the name of runner: 
+[2022-11-26 22:04:40Z INFO Terminal] WRITE: [press Enter for Vaibhavs-MBP] 
+[2022-11-26 22:04:40Z INFO Terminal] READ LINE
+[2022-11-26 22:04:47Z INFO Terminal] Read value: ''
+[2022-11-26 22:04:47Z INFO PromptManager] Falling back to the default: 'Vaibhavs-MBP'
+[2022-11-26 22:04:47Z INFO Terminal] WRITE LINE: 
+[2022-11-26 22:04:47Z INFO CommandSettings] Arg 'labels': ''
+[2022-11-26 22:04:47Z INFO CommandSettings] Flag 'unattended': 'False'
+[2022-11-26 22:04:47Z INFO PromptManager] ReadValue
+[2022-11-26 22:04:47Z INFO Terminal] WRITE: This runner will have the following labels: 'self-hosted', 'macOS', 'X64' 
+Enter any additional labels (ex. label-1,label-2): 
+[2022-11-26 22:04:47Z INFO Terminal] WRITE: [press Enter to skip] 
+[2022-11-26 22:04:47Z INFO Terminal] READ LINE
+[2022-11-26 22:04:52Z INFO Terminal] Read value: ''
+[2022-11-26 22:04:52Z INFO Terminal] WRITE LINE: 
+[2022-11-26 22:04:53Z INFO CommandSettings] Flag 'disableupdate': 'False'
+[2022-11-26 22:04:53Z INFO CommandSettings] Flag 'disableupdate': 'False'
+[2022-11-26 22:04:53Z INFO CommandSettings] Flag 'ephemeral': 'False'
+[2022-11-26 22:04:53Z INFO ConfigurationStore] Saving OAuth credential @ /Users/vaibhavthapliyal/Desktop/Project/order_sys/actions-runner/.credentials
+[2022-11-26 22:04:53Z INFO ConfigurationStore] Credentials Saved.
+[2022-11-26 22:04:53Z INFO ConfigurationStore] HasCredentials()
+[2022-11-26 22:04:53Z INFO ConfigurationStore] stored True
+[2022-11-26 22:04:53Z INFO CredentialManager] GetCredentialProvider
+[2022-11-26 22:04:53Z INFO CredentialManager] Creating type OAuth
+[2022-11-26 22:04:53Z INFO CredentialManager] Creating credential type: OAuth
+[2022-11-26 22:04:53Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/vaibhavthapliyal/Desktop/Project/order_sys/actions-runner/.credentials_rsaparams
+[2022-11-26 22:04:53Z INFO RunnerServer] EstablishVssConnection
+[2022-11-26 22:04:53Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2022-11-26 22:04:53Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2022-11-26 22:04:53Z INFO RunnerServer] EstablishVssConnection
+[2022-11-26 22:04:53Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2022-11-26 22:04:53Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2022-11-26 22:04:53Z INFO RunnerServer] EstablishVssConnection
+[2022-11-26 22:04:53Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2022-11-26 22:04:53Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2022-11-26 22:04:54Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2022-11-26 22:04:54Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2022-11-26 22:04:54Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2022-11-26 22:04:55Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/vaibhavthapliyal/Desktop/Project/order_sys/actions-runner/.credentials_rsaparams
+[2022-11-26 22:04:55Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/vaibhavthapliyal/Desktop/Project/order_sys/actions-runner/.credentials_rsaparams
+[2022-11-26 22:04:55Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2022-11-26 22:04:55Z INFO CommandSettings] Arg 'work': ''
+[2022-11-26 22:04:55Z INFO CommandSettings] Flag 'unattended': 'False'
+[2022-11-26 22:04:55Z INFO PromptManager] ReadValue
+[2022-11-26 22:04:55Z INFO Terminal] WRITE: Enter name of work folder: 
+[2022-11-26 22:04:55Z INFO Terminal] WRITE: [press Enter for _work] 
+[2022-11-26 22:04:55Z INFO Terminal] READ LINE
+[2022-11-26 22:05:10Z INFO Terminal] Read value: 'Project'
+[2022-11-26 22:05:10Z INFO ConfigurationStore] Saving runner settings.
+[2022-11-26 22:05:10Z INFO ConfigurationStore] Settings Saved.
+[2022-11-26 22:05:10Z INFO Terminal] WRITE LINE: 
+[2022-11-26 22:05:10Z INFO Terminal] WRITE LINE: 
+[2022-11-26 22:05:10Z INFO OsxServiceControlManager] Service name 'actions.runner.vaibhavthapliyalx-OrderSystem.Vaibhavs-MBP' display name 'GitHub Actions Runner (vaibhavthapliyalx-OrderSystem.Vaibhavs-MBP)' will be used for service configuration.
+[2022-11-26 22:05:10Z INFO HostContext] Well known directory 'Bin': '/Users/vaibhavthapliyal/Desktop/Project/order_sys/actions-runner/bin'
+[2022-11-26 22:05:10Z INFO HostContext] Well known directory 'Root': '/Users/vaibhavthapliyal/Desktop/Project/order_sys/actions-runner'
+[2022-11-26 22:05:10Z INFO HostContext] Well known directory 'Bin': '/Users/vaibhavthapliyal/Desktop/Project/order_sys/actions-runner/bin'
+[2022-11-26 22:05:10Z INFO HostContext] Well known directory 'Bin': '/Users/vaibhavthapliyal/Desktop/Project/order_sys/actions-runner/bin'
+[2022-11-26 22:05:10Z INFO HostContext] Well known directory 'Root': '/Users/vaibhavthapliyal/Desktop/Project/order_sys/actions-runner'
+[2022-11-26 22:05:10Z INFO UnixUtil] Which: 'chmod'
+[2022-11-26 22:05:10Z INFO UnixUtil] Location: '/bin/chmod'
+[2022-11-26 22:05:10Z INFO UnixUtil] Running /bin/chmod 755 "/Users/vaibhavthapliyal/Desktop/Project/order_sys/actions-runner/svc.sh"
+[2022-11-26 22:05:10Z INFO ProcessInvokerWrapper] Starting process:
+[2022-11-26 22:05:10Z INFO ProcessInvokerWrapper]   File name: '/bin/chmod'
+[2022-11-26 22:05:10Z INFO ProcessInvokerWrapper]   Arguments: '755 "/Users/vaibhavthapliyal/Desktop/Project/order_sys/actions-runner/svc.sh"'
+[2022-11-26 22:05:10Z INFO ProcessInvokerWrapper]   Working directory: '/Users/vaibhavthapliyal/Desktop/Project/order_sys/actions-runner'
+[2022-11-26 22:05:10Z INFO ProcessInvokerWrapper]   Require exit code zero: 'True'
+[2022-11-26 22:05:10Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2022-11-26 22:05:10Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'False'
+[2022-11-26 22:05:10Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2022-11-26 22:05:10Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2022-11-26 22:05:10Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2022-11-26 22:05:10Z INFO ProcessInvokerWrapper]   High priority process: 'False'
+[2022-11-26 22:05:10Z INFO ProcessInvokerWrapper] Process started with process id 20088, waiting for process exit.
+[2022-11-26 22:05:10Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2022-11-26 22:05:10Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2022-11-26 22:05:10Z INFO ProcessInvokerWrapper] Finished process 20088 with exit code 0, and elapsed time 00:00:00.0339127.
+[2022-11-26 22:05:10Z INFO Listener] Runner execution has finished with return code 0

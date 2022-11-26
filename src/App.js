@@ -1,8 +1,13 @@
 import logo from './logo.svg';
 import './App.css';
+<<<<<<< HEAD
 /**
  * @returns a page
  */
+=======
+
+//function below
+>>>>>>> main
 function App() {
   return (
     <div className="App">
